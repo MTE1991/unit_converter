@@ -1,0 +1,6 @@
+/Users/mgkibria/Projects/Converter/Converter/bin/Debug/Converter.exe
+/Users/mgkibria/Projects/Converter/Converter/bin/Debug/Converter.pdb
+/Users/mgkibria/Projects/Converter/Converter/obj/anycpu/Debug/Converter.csprojAssemblyReference.cache
+/Users/mgkibria/Projects/Converter/Converter/obj/anycpu/Debug/Converter.csproj.CoreCompileInputs.cache
+/Users/mgkibria/Projects/Converter/Converter/obj/anycpu/Debug/Converter.exe
+/Users/mgkibria/Projects/Converter/Converter/obj/anycpu/Debug/Converter.pdb
